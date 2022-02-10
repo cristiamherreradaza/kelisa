@@ -162,10 +162,16 @@ class PrincipalActivity : AppCompatActivity() {
     }
 
     fun panico(view: android.view.View) {
+
         getCurrentLocation()
+
         Log.i("latitud ", latitude.toString())
         Log.i("longitud ", longitude.toString())
-        //enviaLocalizacion("19", "20")
+
+        val latitud = latitude.toString()
+        val longitud = longitude.toString()
+
+        enviaLocalizacion(latitud, longitud)
 
         Toast.makeText(this, "Se mando la alerta", Toast.LENGTH_LONG).show()
     }

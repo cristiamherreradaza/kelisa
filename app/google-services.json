@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "2282005368",
+    "project_id": "elisa-3b841",
+    "storage_bucket": "elisa-3b841.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2282005368:android:816a49aa602515f1e3de8d",
+        "android_client_info": {
+          "package_name": "net.goghu.elisa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2282005368-jpgrklr5tqbfv1p3ee2j759ffr5c1gmg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.goghu.elisa",
+            "certificate_hash": "8e7c106e106528edf3f4b90d4527f3e9afed12f3"
+          }
+        },
+        {
+          "client_id": "2282005368-rpjuudvik6d4np0vha3fvbijlnrsoau0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEeb4quMSPT1FeH2OMhn5cF0es6oclwBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2282005368-rpjuudvik6d4np0vha3fvbijlnrsoau0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
